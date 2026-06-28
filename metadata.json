@@ -1,0 +1,6 @@
+{
+  "name": "Quản lý Tài chính Gia đình",
+  "description": "Ứng dụng quản lý tài chính gia đình đồng bộ thời gian thực và liên kết Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
